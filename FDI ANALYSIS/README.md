@@ -20,3 +20,6 @@ The dataset has information on Foreign direct investment in India for the last 1
 6. Photographic raw film and coal production and defence has been the lowest sectors from FDI inflow viewpoint, around 60%, 25% and 5% respectively.
 7. At this trend, it can be forecasted that till 2022, the FDI inflow would increase to around 45K $ millions, then again it would see a downfall till 2026 to around 42K $ millions
 
+## Tableau Public Link:
+https://public.tableau.com/views/FDIANALYSIS_17217624746700/FDIANALYSIS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
